@@ -6,6 +6,6 @@ public class Main extends AnAction {
 
     @Override
     public void actionPerformed(AnActionEvent e) {
-        Messages.showMessageDialog("Version:1.0", "SwaggerFormat", Messages.getInformationIcon());
+        Messages.showMessageDialog("version-1.0","SwaggerFormat",Messages.getInformationIcon());
     }
 }
